@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Sjoerd Terpstra"
 title_separator          : "-"
-name                     : &name "Sjoerd Terpstra"
-description              : &description "personal description"
+name                     : &name
+description              : &description
 url                      : https://terpstras.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TerpstraS/terpstras.github.io"
